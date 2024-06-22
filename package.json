@@ -1,15 +1,26 @@
 {
   "name": "toast-notify-js",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A simple and customizable toast notification library for JavaScript",
+  "main": "dist/toast.min.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack"
   },
-  "keywords": [],
+  "keywords": [
+    "toast",
+    "notification",
+    "javascript",
+    "vanilla-js",
+    "react",
+    "vue"
+  ],
   "author": "Hasan Hafizur Rahman",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HasanHafizurRahman/toast-message-js"
+  },
   "devDependencies": {
     "css-loader": "^7.1.2",
     "style-loader": "^4.0.0",
